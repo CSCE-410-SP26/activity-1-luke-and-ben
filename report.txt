@@ -17,9 +17,11 @@ Score: 8.0 / 8
 ------------------------------------------------------------
 Exercise 3 : creation of file with content (8 points)
 Score: 0.0 / 8
+Comment: No execution of echo in exercise 3
 ------------------------------------------------------------
 Exercise 3 : modify the content of file (8 points)
 Score: 0.0 / 8
+Comment: No execution of echo in exercise 3
 ------------------------------------------------------------
 Exercise 3 : display content  of file (8 points)
 Score: 8.0 / 8
